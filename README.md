@@ -1,4 +1,4 @@
-# Watch Animation
+![image](https://github.com/shah9380/watch-animation/assets/130676464/0bdf8067-d4e2-4bfe-8747-041294f1c428)# Watch Animation
 
 This repository showcases a simple image animation effect using HTML and CSS. It creates a container with three images that rotate and change opacity when hovered over.
 
@@ -9,10 +9,12 @@ This repository showcases a simple image animation effect using HTML and CSS. It
 4. [Usage](#usage)
 5. [License](#license)
 
+![Screenshot 2023-09-25 001232](https://github.com/shah9380/watch-animation/assets/130676464/3eaa685f-c90f-4444-87a2-9867f45bab68)
+
 ## Introduction
 
 This project demonstrates a basic image animation effect that can be used to add a dynamic touch to images on a web page. The animation involves rotating images and changing their opacity when the user hovers over them.
-
+[Hosted Link](https://shah9380.github.io/watch-animation/)
 ## HTML Structure
 
 The HTML structure of this project is quite simple and consists of an `index.html` file:
